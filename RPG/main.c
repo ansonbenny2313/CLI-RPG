@@ -57,7 +57,7 @@ int main()
 
     choose(&choice,3);
     switch(choice){
-        case 1:printf("\n\nSTRANGER: You must've lost your memories under the Tree of Thousand Blossoms\n\n");break;
+        case 1:printf("\n\nSTRANGER: You must've lost your memories under the home of England\n\n");break;
         case 2:printf("\n\nSTRANGER: How rude of you to say that to the man that just saved your life?\n\n");break;
         case 3:printf("\n\nSTRANGER: Child, nobody is lost. There are no mistakes. \n\n");break;
         default: printf("\n\nYou picked the wrong house fool \n \n"); break;
@@ -91,7 +91,7 @@ int main()
         char command[20];
 
 
-    printf("\n\n\n\n********************************\n");
+    printf("\n\n\n\n*********************\n");
     printf("* Huray! DISCOVERED PHAZE CLAN HOLDOUT *\n");
     printf("********************************\n\n\n\n\n");
     faze=1;
@@ -101,7 +101,7 @@ int main()
     switch(choice){
         case 1: printf("\n\nMiko:\tDon't act tough, we all know who you are.\n\n");break;
         case 2: printf("\n\nMiko:\tAtleast someone knows his stuff around. \n\n");break;
-        default: printf("\n\nMiko:\tYou picked the wrong house fool.\n\n");break;
+        default: printf("\n\nMiko:\tYou picked house fool.\n\n");break;
     }
     printf("Miko:\t Greg wants me to show you around. \n\nMiko:\tHere, take this map. It'll help you in your journey. \n\n");
     printf("*Map Added* \n\n");
